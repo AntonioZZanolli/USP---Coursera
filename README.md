@@ -63,7 +63,7 @@ O curso de Introdução à Ciência da Computação com Python é introdutório 
 
 #### Semana 6
 - Outras utilizações do depurador; e
-- Dicas para criação do jogo NIM.
+- Dicas para criação do [jogo NIM](https://github.com/AntonioZZanolli/JogoNIM).
 
 [Exercícios da semana 6](https://github.com/AntonioZZanolli/USP---Coursera/tree/main/Semana%206)
 
